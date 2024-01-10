@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project involves the design of a Line Following Robot for automated plant watering. The robot is equipped with sensors to follow a predefined path and a watering mechanism to ensure efficient watering of plants. The robot waters plants when it detects a green color and stops when it encounters a blue color. You can view the implementation of this project on my YouTube channel at the following link: https://www.youtube.com/watch?v=ohmG6FiPu7Q.
+This project involves the design of a Line Following Robot for automated plant watering. The robot is equipped with sensors to follow a predefined path and a watering mechanism to ensure efficient watering of plants. It waters plants when detecting a green color and stops upon encountering a blue color. You can view the implementation of this project on my YouTube channel at the following link: https://www.youtube.com/watch?v=ohmG6FiPu7Q. The 3D model design, created using Fusion360, can be found in the file '3D Design.f3z.'
 
 ## Table of Contents
 
