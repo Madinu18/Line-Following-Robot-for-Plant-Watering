@@ -49,7 +49,7 @@ Explain how to use the robot for plant watering. Include any user inputs, comman
 
 ## Contributors
 
-This Project made by:
+This Project was made by:
 1. Muhammad Adi Nurhidayat
 2. Muhammad Daffa Zakaria
 3. Amar Ma'ruf
